@@ -1,0 +1,109 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/player.json",
+                "type": "animation",
+                "key": "player"
+            },
+            {
+                "atlasURL": "assets/sokoban_spritesheet.xml",
+                "textureURL": "assets/sokoban_spritesheet.png",
+                "type": "atlasXML",
+                "key": "sokoban_spritesheet"
+            },
+            {
+                "url": "assets/ui/flatLight24.png",
+                "type": "image",
+                "key": "numUpBtnHover"
+            },
+            {
+                "url": "assets/ui/flatLight25.png",
+                "type": "image",
+                "key": "numDownBtnHover"
+            },
+            {
+                "url": "assets/ui/shadedLight26.png",
+                "type": "image",
+                "key": "numUpBtnDefault"
+            },
+            {
+                "url": "assets/ui/shadedLight27.png",
+                "type": "image",
+                "key": "numDownBtnDefault"
+            },
+            {
+                "url": "assets/ui/grey_panel.png",
+                "type": "image",
+                "key": "numPanel"
+            },
+            {
+                "url": "assets/ui/flatDark45.png",
+                "type":"image",
+                "key":"numSubmitBtnHover"
+            },
+            {
+                "url": "assets/ui/shadedDark46.png",
+                "type":"image",
+                "key":"numSubmitBtn"
+            },
+            {
+                "url": "assets/ui/shadedDark03.png",
+                "type":"image",
+                "key":"moveUpBtnDefault"
+            },
+            {
+                "url": "assets/ui/shadedDark05.png",
+                "type":"image",
+                "key":"moveLeftBtnDefault"
+            },
+            {
+                "url": "assets/ui/shadedDark06.png",
+                "type":"image",
+                "key":"moveRightBtnDefault"
+            },
+            {
+                "url": "assets/ui/shadedDark10.png",
+                "type":"image",
+                "key":"moveDownBtnDefault"
+            },
+            {
+                "url": "assets/ui/transparentDark01.png",
+                "type":"image",
+                "key":"moveUpBtnHover"
+            },
+            {
+                "url": "assets/ui/transparentDark03.png",
+                "type":"image",
+                "key":"moveLeftBtnHover"
+            },
+            {
+                "url": "assets/ui/transparentDark04.png",
+                "type":"image",
+                "key":"moveRightBtnHover"
+            },
+            {
+                "url": "assets/ui/transparentDark08.png",
+                "type":"image",
+                "key":"moveDownBtnHover"
+            },
+            {
+                "url": "assets/ui/transparentDark43.png",
+                "type":"image",
+                "key":"playAgainBtnHover"
+            },
+            {
+                "url": "assets/ui/shadedDark45.png",
+                "type":"image",
+                "key":"playAgainBtn"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

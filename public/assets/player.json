@@ -1,0 +1,122 @@
+{
+    "anims": [
+        {
+            "key": "player-left",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "sokoban_spritesheet",
+                    "frame": "player_14.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sokoban_spritesheet",
+                    "frame": "player_15.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sokoban_spritesheet",
+                    "frame": "player_16.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "player-right",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "sokoban_spritesheet",
+                    "frame": "player_11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sokoban_spritesheet",
+                    "frame": "player_12.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sokoban_spritesheet",
+                    "frame": "player_13.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "player-up",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "sokoban_spritesheet",
+                    "frame": "player_02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sokoban_spritesheet",
+                    "frame": "player_03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sokoban_spritesheet",
+                    "frame": "player_04.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "player-down",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "sokoban_spritesheet",
+                    "frame": "player_05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sokoban_spritesheet",
+                    "frame": "player_06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sokoban_spritesheet",
+                    "frame": "player_07.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    },
+    "settings": {
+        "sourceLang": "JAVA_SCRIPT",
+        "esModule": false,
+        "generateCode": false
+    }
+}
